@@ -29,21 +29,40 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nataliia &lt;nata.buchna@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1p9fllKwHld3z1FgIE9JZUCsklW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/script.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614600380740</updated>
-      <workItem from="1614600382232" duration="2268000" />
+      <workItem from="1614600382232" duration="11864000" />
     </task>
+    <task id="LOCAL-00001" summary="js changes">
+      <created>1614603487774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614603487774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +98,20 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="js changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="js changes" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="660" y="70" key="#Deployment" timestamp="1614603386897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="660" y="70" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1614603386897" />
+    <state x="692" y="0" key="CommitChangelistDialog2" timestamp="1614603486958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="692" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614603486958" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1614600898715">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -88,5 +128,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="610" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1614600967303" />
+    <state width="744" height="205" key="GridCell.Tab.0.bottom" timestamp="1615304363262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615304363262" />
+    <state width="744" height="205" key="GridCell.Tab.0.center" timestamp="1615304363262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615304363262" />
+    <state width="744" height="205" key="GridCell.Tab.0.left" timestamp="1615304363262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615304363262" />
+    <state width="744" height="205" key="GridCell.Tab.0.right" timestamp="1615304363262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="744" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615304363262" />
+    <state x="660" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614603288378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="660" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614603288378" />
+    <state x="969" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615302523572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="969" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1615302523572" />
   </component>
 </project>
